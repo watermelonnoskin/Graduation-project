@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 配置
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# 数据文件（太大不建议存 Git）
+*.npy
+*.npz
+
+# 生成的结果
+results/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文档
+*.tmp
+*.log
